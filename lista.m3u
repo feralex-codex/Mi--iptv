@@ -1,2 +1,42 @@
 
 #EXTM3U
+#EXTM3U
+
+# ===== 🇭🇳 HONDURAS =====
+#EXTINF:-1 tvg-id="HCH.hn" group-title="🇭🇳 Honduras",HCH
+https://hch.tv/hch-en-vivo/
+
+# ===== 🇲🇽 MÉXICO =====
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="🇲🇽 México",Canal 5
+https://www.televisa.com/canal5/en-vivo/
+
+#EXTINF:-1 tvg-id="Foro.mx" group-title="🇲🇽 México",Foro TV
+https://www.nmas.com.mx/foro-tv/
+
+#EXTINF:-1 tvg-id="History.mx" group-title="🇲🇽 México",History
+https://www.historyplay.tv/
+
+# ===== 🇨🇴 COLOMBIA =====
+#EXTINF:-1 tvg-id="Canal1.co" group-title="🇨🇴 Colombia",Canal 1
+https://canal1.com.co/
+
+#EXTINF:-1 tvg-id="CanalInstitucional.co" group-title="🇨🇴 Colombia",Canal Institucional
+https://www.canalinstitucional.tv/
+
+# ===== 🇨🇷 COSTA RICA =====
+#EXTINF:-1 tvg-id="Canal2.cr" group-title="🇨🇷 Costa Rica",Canal 2
+https://www.repretel.com/envivo-canal2/
+
+#EXTINF:-1 tvg-id="Telefides.cr" group-title="🇨🇷 Costa Rica",Telefides
+https://telefides.com/
+
+# ===== 🎵 MÚSICA =====
+#EXTINF:-1 tvg-id="SinLimites.co" group-title="🎵 Música",Sin Límites
+https://www.claromusica.com/
+
+#EXTINF:-1 tvg-id="SonLatino.co" group-title="🎵 Música",Son Latino
+http://www.cncpasto.com/son-latino/
+
+# ===== 👧 INFANTILES =====
+#EXTINF:-1 tvg-id="MiSenalColombia.co" group-title="👧 Infantiles",Mi Señal Colombia
+https://www.misenal.tv/
