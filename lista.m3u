@@ -73,27 +73,69 @@ https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels
 #EXTINF:-1 tvg-id="UNETV.hn@SD" group-title="🇭🇳 Honduras",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="STVETelebasica.hn@SD" group-title="🇭🇳 Honduras",STVE Telebásica
-https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+# ===== 🇲🇽 MÉXICO =====
 
-#EXTINF:-1 tvg-id="VTV.hn@SD" group-title="🇭🇳 Honduras",VTV
-https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" group-title="🇲🇽 México",Canal 5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7.mx@MexicoCity" group-title="🇲🇽 México",Azteca 7
+https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx@SD" group-title="🇲🇽 México",Azteca Uno
+http://177.245.131.133:8080/AZTECA1/index.m3u8
+
+# ===== 🇺🇸 ESTADOS UNIDOS =====
+
+#EXTINF:-1 tvg-id="Telemundo.us@East" group-title="🇺🇸 Estados Unidos",Telemundo
+https://streaming-live-fcdn.api.prd.univisionnow.com/wsc/wsc.isml/hls/wsc.m3u8
+
+#EXTINF:-1 tvg-id="Univision.us@East" group-title="🇺🇸 Estados Unidos",Univision
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8
+
+#EXTINF:-1 tvg-id="UniMas.us@East" group-title="🇺🇸 Estados Unidos",UniMás
+https://unidfp-nlds164.global.ssl.fastly.net/nlds/univisionnow/unimas_east2/as/live/unimas_east2_hd_pc.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us@SD" group-title="🇺🇸 Estados Unidos",TUDN
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="Galavision.us@East" group-title="🇺🇸 Estados Unidos",Galavisión
+https://unidfp-nlds159.global.ssl.fastly.net/nlds/univisionnow/galavision_east/as/live/galavision_east_hd_pc.m3u8
+
+# ===== 🇨🇴 COLOMBIA =====
+
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" group-title="🇨🇴 Colombia",Caracol TV
+http://45.171.108.253:8888/CARACOL/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" group-title="🇨🇴 Colombia",RCN
+http://138.121.15.230:9002/RCN/index.m3u8
+
+#EXTINF:-1 tvg-id="WinSports.co@SD" group-title="🇨🇴 Colombia",Win Sports
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+
+# ===== 🇨🇷 COSTA RICA =====
+
+#EXTINF:-1 tvg-id="Repretel2.cr@SD" group-title="🇨🇷 Costa Rica",Repretel Canal 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Repretel6.cr@SD" group-title="🇨🇷 Costa Rica",Repretel Canal 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/720p.m3u8
+
+#EXTINF:-1 tvg-id="Repretel11.cr@SD" group-title="🇨🇷 Costa Rica",Repretel Canal 11
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/720p.m3u8
 
 # ===== ⚽ DEPORTES =====
 
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-country="US" group-title="⚽ Deportes",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="⚽ Deportes",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA Español" tvg-country="US" group-title="⚽ Deportes",beIN SPORTS XTRA Español
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="⚽ Deportes",beIN SPORTS XTRA Español
 https://lnc-bein-espanol.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bahrain Sports 1" tvg-country="BH" group-title="⚽ Deportes",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD" group-title="⚽ Deportes",ESPN Deportes
+http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 
-#EXTINF:-1 tvg-name="Bahrain Sports 2" tvg-country="BH" group-title="⚽ Deportes",Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="⚽ Deportes",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 tvg-name="B1B Box" tvg-country="BG" group-title="⚽ Deportes",B1B Box
-https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8
 
 
