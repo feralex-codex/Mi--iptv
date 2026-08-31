@@ -1,1 +1,19 @@
-prueba1
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Las Estrellas" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 5" group-title="Mexico",Canal 5
+http://185.56.109.253/Canal5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Uno" group-title="Mexico",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-name="Azteca 7" group-title="Mexico",Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+#EXTINF:-1 tvg-name="ADN 40" group-title="Mexico",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-name="Foro TV" group-title="Mexico",Foro TV
+https://channel02-onlymex.akamaized.net/hls/live/2023914/event01/index.m3u8
