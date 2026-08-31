@@ -73,5 +73,33 @@ https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels
 #EXTINF:-1 tvg-id="UNETV.hn@SD" group-title="🇭🇳 Honduras",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
+# ===== ⚽ DEPORTES =====
+
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-country="US" group-title="⚽ Deportes",beIN SPORTS XTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA Español" tvg-country="US" group-title="⚽ Deportes",beIN SPORTS XTRA Español
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+# EXTINF : 0  group-title = " Entretenimiento " , A&E HD
+# EXTGRP : Entretenimiento
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0mt
+
+# EXTINF : 0  group-title = " Peliculas " , AXN HD
+# EXTGRP : Películas
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0q0
+
+# EXTINF : 0  group-title = " Documentales " , Animal Planet
+# EXTGRP : Documentales
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0po
+
+# EXTINF : 0  group-title = " Noticias " , CNN Español
+# EXTGRP : Noticias
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0p3
+
 
 
