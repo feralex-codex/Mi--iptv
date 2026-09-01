@@ -84,7 +84,6 @@ https://mediacp.us:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" group-title="Honduras",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1,ESPN
 http://45.177.53.7:8000/play/a0cs/index.m3u8
 #EXTINF:-1,ESPN 2
@@ -211,118 +210,7 @@ http://201.218.137.232:4123/play/a05c/index.m3u8
 http://201.218.137.232:4123/play/a05d/index.m3u8
 #EXTINF:-1,117.1 - TyC Sports HD
 http://201.218.137.232:4123/play/a00c/index.m3u8
-#EXTINF:-1,117.2 - Win Sports+ HD
-http://201.218.137.232:4123/play/a00j/index.m3u8
-#EXTINF:-1,117.3 - El Canal del Futbol HD
-http://201.218.137.232:4123/play/a00l/index.m3u8
-#EXTINF:-1,117.4 - Tigo Sports HD
-http://201.218.137.232:4123/play/a00s/index.m3u8
-#EXTINF:-1,117.5 - Claro Sports 1 HD
-http://201.218.137.232:4123/play/a00t/index.m3u8
-#EXTINF:-1,117.6 - Claro Sports 2 HD
-http://201.218.137.232:4123/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.69.87.250:12500/play/a03r/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://200.69.87.250:12500/play/a03u/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://200.69.87.250:12500/play/a040/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://200.69.87.250:12500/play/a02h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.69.87.250:12500/play/a04j/index.m3u8
-#EXTINF:-1,ESPN + IKS
-http://200.229.147.76:4000/play/a0kv/index.m3u8
-#EXTINF:-1,ESPN 1 CHO
-http://200.229.147.76:4000/play/a0hh/index.m3u8
-#EXTINF:-1,ESPN 1 CHO NUEVO
-http://200.229.147.76:4000/play/a0jv/index.m3u8
-#EXTINF:-1,ESPN 1 SPS
-http://200.229.147.76:4000/play/a0dr/index.m3u8
-#EXTINF:-1,ESPN 2 CHO
-http://200.229.147.76:4000/play/a0gu/index.m3u8
-#EXTINF:-1,ESPN 2 HD IKS
-http://200.229.147.76:4000/play/a0l2/index.m3u8
-#EXTINF:-1,ESPN 2 SPS
-http://200.229.147.76:4000/play/a0ds/index.m3u8
-#EXTINF:-1,ESPN 3 CHO
-http://200.229.147.76:4000/play/a0ih/index.m3u8
-#EXTINF:-1,ESPN 3 HD IKS
-http://200.229.147.76:4000/play/a0l1/index.m3u8
-#EXTINF:-1,ESPN 4 HD IKS
-http://200.229.147.76:4000/play/a0l3/index.m3u8
-#EXTINF:-1,ESPN 4 CHO
-http://200.229.147.76:4000/play/a0h0/index.m3u8
-#EXTINF:-1,ESPN HD IKS
-http://200.229.147.76:4000/play/a0l0/index.m3u8
-#EXTINF:-1,FOX SPORT 1 CHO NUEVO
-http://200.229.147.76:4000/play/a0jx/index.m3u8
-#EXTINF:-1,FOX SPORT 1 SPS
-http://200.229.147.76:4000/play/a0dl/index.m3u8
-#EXTINF:-1,FOX SPORT 2 CHO
-http://200.229.147.76:4000/play/a0h1/index.m3u8
-#EXTINF:-1,FOX SPORT 2 SPS
-http://200.229.147.76:4000/play/a0dm/index.m3u8
-#EXTINF:-1,FOX SPORT 3 CHO NUEVO
-http://200.229.147.76:4000/play/a0jy/index.m3u8
-#EXTINF:-1,17-ESPN
-http://200.114.65.7:8000/play/a046/index.m3u8
-#EXTINF:-1,18-ESPN 2
-http://200.114.65.7:8000/play/a0hu/index.m3u8
-#EXTINF:-1,19-ESPN 3
-http://200.114.65.7:8000/play/a06j/index.m3u8
-#EXTINF:-1,20-ESPN 4
-http://200.114.65.7:8000/play/a0hx/index.m3u8
-#EXTINF:-1,21-ESPN CO
-http://200.114.65.7:8000/play/a0hg/index.m3u8
-#EXTINF:-1,22-Fox Sports 1
-http://200.114.65.7:8000/play/a03n/index.m3u8
-#EXTINF:-1,23-Fox Sports 2
-http://200.114.65.7:8000/play/a0iv/index.m3u8
-#EXTINF:-1,24-Fox Sports 3
-http://200.114.65.7:8000/play/a0iw/index.m3u8
-#EXTINF:-1,25-GOL TV
-http://200.114.65.7:8000/play/a0a8/index.m3u8
-#EXTINF:-1,26-TNT SPORTS 2
-http://200.114.65.7:8000/play/a03m/index.m3u8
-#EXTINF:-1,27-TNT SPORTS 3
-http://200.114.65.7:8000/play/a0it/index.m3u8
-#EXTINF:-1,28-TyC
-http://200.114.65.7:8000/play/a0a9/index.m3u8
-#EXTINF:-1,ESPN
-http://200.113.4.75:7210/play/a00y/index.m3u8
-#EXTINF:-1,ESPN 2
-http://200.113.4.75:7210/play/a00n/index.m3u8
-#EXTINF:-1,ESPN 2 Latino
-http://200.113.4.75:7210/play/a00x/index.m3u8
 
-#EXTINF:-1,Fox Sports
-http://200.113.4.75:7210/play/a00w/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://200.113.4.75:7210/play/a00d/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://200.113.4.75:7210/play/a016/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://200.113.4.75:7210/play/a017/index.m3u8
-#EXTINF:-1,OFCAM ESPN
-http://190.92.25.125:8000/play/a06w/index.m3u8
-#EXTINF:-1,OFCAM ESPN 2
-http://190.92.25.125:8000/play/a07f/index.m3u8
-#EXTINF:-1,OFCAM ESPN 2 Latino
-http://190.92.25.125:8000/play/a06v/index.m3u8
-#EXTINF:-1,OFCAM ESPN 3
-http://190.92.25.125:8000/play/a07p/index.m3u8
-#EXTINF:-1,OFCAM ESPN CO
-http://190.92.25.125:8000/play/a07u/index.m3u8
-#EXTINF:-1,OFCAM GOL TV
-http://190.92.25.125:8000/play/a06x/index.m3u8
-#EXTINF:-1,RTN ESPN 4
-http://190.92.25.125:8000/play/a06u/index.m3u8
-#EXTINF:-1,RTN Fox Sports 1
-http://190.92.25.125:8000/play/a078/index.m3u8
-#EXTINF:-1,RTN Mega
-http://190.92.25.125:8000/play/a076/index.m3u8
-#EXTINF:-1,RTN TNT SPORTS 2
-http://190.92.25.125:8000/play/a077/index.m3u8
-#EXTINF:-1,RTN TNT SPORTS 3
-http://190.92.25.125:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN AR" group-title="deportes" tvg-logo=" https://i.imgur.com/ZY71cCY.png " group-title="Deportes" ,ESPN Argentina
+#EXTVLCOPT:network-caching=1000
+http://186.33.57.220:8000/play/a0y2/index.m3u8
