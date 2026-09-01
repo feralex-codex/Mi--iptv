@@ -84,7 +84,6 @@ https://mediacp.us:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" group-title="Honduras",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1,ESPN 2 HD
 http://179.1.78.254:9001/play/a07a
 #EXTINF:-1,ESPN 2 HD_TBS
