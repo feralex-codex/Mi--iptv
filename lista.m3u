@@ -83,3 +83,6 @@ https://mediacp.us:8081/8034/index.m3u8
 
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" group-title="Honduras",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hJgXuw6.png" group-title="DEPORTES",Todo Deportes HD
+http://tvpremiumhd.club/lista-gratuita/green/tododeportesx.m3u8
