@@ -76,11 +76,7 @@ https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 #EXTINF:0,DISCOVERY WORLD 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8 
 
-#EXTINF:0,DISCOVERY CHANNEL 
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8 
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png",TELEMUNDO LATINO SNAKE
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
-#EXTINF:-1, ESPN
-https://v17.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8?token=JEyeSUdATpL08_lJ2gzKxg&expires=1744592314&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
 
-#EXTINF:-1, ESPN Deportes
-https://v14.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8?token=bloj_8GfPROl4scgL4DTiw&expires=1744594334&user_id=b0c3anJIVTc1T3U2b3BOMFRYeE1ZcTRuWkRwWDZ6U1lDSlpNcElOWQ==
