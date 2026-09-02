@@ -185,3 +185,17 @@ http://181.78.8.199:8000/play/a0g9/index.m3u8
 
 #EXTINF:0 group-title="Colombia",Caracol
 http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+
+
+#EXTINF:-1 group-title="PRUEBA",FOX SPORTS 1 MÉXICO
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
+
+#EXTINF:-1 group-title="PRUEBA",FOX SPORTS 2 MÉXICO
+http://tilinki.com:25461/caqo5939/2g7xS/24
+
+#EXTINF:-1 group-title="PRUEBA",FOX SPORTS 3 MÉXICO
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
+
+#EXTINF:-1 group-title="PRUEBA",ESPN DEPORTES
+http://38.143.137.221:8000/LA81/index.m3u8
