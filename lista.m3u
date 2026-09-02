@@ -78,11 +78,11 @@ https://s.emisoras.tv:8081/telemas/index.m3u8
 #EXTINF:-1 tvg-id="Telerayo.hn@1080" group-title="Honduras",Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn@SD" group-title="Honduras",Televisión Comayagua Canal 40 (720p) [Not 24/7]
-https://mediacp.us:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="VTV.hn" tvg-name="VTV" group-title="Honduras",VTV
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" group-title="Honduras",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" group-title="México",Azteca 7
+https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/hJgXuw6.png" group-title="DEPORTES",Todo Deportes HD
-http://tvpremiumhd.club/lista-gratuita/green/tododeportesx.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic" group-title="Documentales",National Geographic
+http://45.162.193.35/NATGEO/index.m3u8
