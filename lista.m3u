@@ -84,5 +84,5 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" group-title="México",Azteca 7
 https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic" group-title="Documentales",National Geographic
-http://45.162.193.35/NATGEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentales",National Geographic
+http://177.234.249.178:8888/NATGEO/index.m3u8
