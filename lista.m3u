@@ -87,5 +87,96 @@ https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manife
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentales",National Geographic
 http://177.234.249.178:8888/NATGEO/index.m3u8
 
-#EXTINF:-1,HBO
+#EXTINF:0 group-title="Entretenimiento",A&E
+http://181.78.79.131:8000/play/a0mt
+
+#EXTINF:0 group-title="Documentales",Animal Planet
+http://181.78.79.131:8000/play/a0po
+
+#EXTINF:0 group-title="Noticias",CNN Español
+http://181.78.79.131:8000/play/a0p3
+
+#EXTINF:0 group-title="Peliculas",Cinecanal
+http://181.78.79.131:8000/play/a0pp
+
+#EXTINF:0 group-title="Entretenimiento",Comedy Central
+http://181.78.79.131:8000/play/a0mu
+
+#EXTINF:0 group-title="Infantiles",DHE
+http://181.78.79.131:8000/play/a0qv
+
+#EXTINF:0 group-title="Peliculas",De Película
+http://181.78.79.131:8000/play/a0qb
+
+#EXTINF:0 group-title="Documentales",Discovery Science
+http://181.78.79.131:8000/play/a0pb
+
+#EXTINF:0 group-title="Documentales",Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
+
+#EXTINF:0 group-title="Documentales",Discovery World
+http://181.78.79.131:8000/play/a0n8
+
+#EXTINF:0 group-title="Entretenimiento",Disney Junior
+http://181.78.79.131:8000/play/a0p7
+
+#EXTINF:0 group-title="Deportes",ESPN 1
+http://181.78.79.131:8000/play/a0s7
+
+#EXTINF:0 group-title="Deportes",ESPN 2
+http://181.78.79.131:8000/play/a0qj
+
+#EXTINF:0 group-title="Deportes",ESPN 3
+http://181.78.79.131:8000/play/a0s6
+
+#EXTINF:0 group-title="Deportes",ESPN 4
+http://181.78.79.131:8000/play/a0s9
+
+#EXTINF:0 group-title="Deportes",ESPN 5
+http://181.78.79.131:8000/play/a0s5
+
+#EXTINF:0 group-title="Deportes",ESPN 6
+http://181.78.79.131:8000/play/a0s3
+
+#EXTINF:0 group-title="Deportes",ESPN 7
+http://181.78.79.131:8000/play/a0s8
+
+#EXTINF:0 group-title="Peliculas",HBO
 http://181.78.79.131:8000/play/a0qd
+
+#EXTINF:0 group-title="Peliculas",HBO Extreme
+http://181.78.79.131:8000/play/a0qy
+
+#EXTINF:0 group-title="General",Las Estrellas
+http://181.78.79.131:8000/play/a0qu
+
+#EXTINF:0 group-title="Entretenimiento",MTV HD
+http://181.78.79.131:8000/play/a0nc
+
+#EXTINF:0 group-title="Documentales",NatGeo
+http://181.78.79.131:8000/play/a0pt
+
+#EXTINF:0 group-title="Entretenimiento",Nickelodeon
+http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:0 group-title="Peliculas",Space
+http://181.78.79.131:8000/play/a0q2
+
+#EXTINF:0 group-title="Deportes",TNT Premium
+http://181.78.79.131:8000/play/a0q9
+
+#EXTINF:0 group-title="Entretenimiento",Tooncast
+http://181.78.79.131:8000/play/a0pe
+
+#EXTINF:0 group-title="Peliculas",Universal Channel
+http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:0 group-title="Peliculas",Warner TV
+http://181.78.79.131:8000/play/a0pz
+
+#EXTINF:0 group-title="Musica",Bandamax
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+
+#EXTINF:0 group-title="Colombia",Caracol
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+```
