@@ -105,6 +105,27 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:0 group-title="Deportes",TNT Premium
 http://181.78.79.131:8000/play/a0q9
 
+#EXTINF:0 group-title="Deportes Internacional",Fox Sports 1 (MPEG-TS)
+http://190.2.143
+
+#EXTINF:0 group-title="Deportes Internacional",Fox Sports 2 (MPEG-TS)
+http://190.2.143
+
+#EXTINF:0 group-title="Deportes Internacional",TyC Sports (Argentina)
+http://181.78.79
+
+#EXTINF:0 group-title="Deportes Internacional",beIN Sports XTRA (FAST)
+https://amagi.tv
+
+#EXTINF:0 group-title="Deportes Internacional",Eurosport 1 (Alternativo)
+http://212.224.98
+
+#EXTINF:0 group-title="Deportes Internacional",Real Madrid TV (Oficial)
+https://akamaihd.net
+
+#EXTINF:0 group-title="Deportes Internacional",Red Bull TV (Deportes Extremos)
+https://akamaized.net
+
 
 # =========================
 # MEXICO
