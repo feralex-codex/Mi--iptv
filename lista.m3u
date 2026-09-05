@@ -100,14 +100,8 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:0 group-title="Deportes",TNT Premium
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:0 group-title="Deportes Premium",Fox Sports 1
-http://181.78.8
-
-#EXTINF:0 group-title="Deportes Premium",Fox Sports 2
-http://181.78.8
-
-#EXTINF:0 group-title="Deportes Premium",Fox Sports 3
-http://181.78.8
+#EXTINF:-1, MX | TUDN USA
+http://play.pelusa.online:8080//live/Luismandujanox910/RjDZP87rmV8n/148828.ts
 
 
 
