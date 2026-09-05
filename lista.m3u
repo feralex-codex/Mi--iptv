@@ -67,11 +67,11 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn@SD" group-title="Honduras",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
+#EXTM3U
+#EXTINF:0 group-title="Deportes",ESPN 1
+http://181.78.79
 #EXTINF:0 group-title="Honduras",TEN Canal 10
-http://190.94.175
-
-#EXTINF:0 group-title="Honduras",TEN Canal 10 HD
-http://grupoabchn.com
+http://epg.la
 
 
 
