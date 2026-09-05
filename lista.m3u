@@ -67,11 +67,6 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="UNETV.hn@SD" group-title="Honduras",UNE TV
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Honduras",VTV Canal 9
-https://vtv.hn
-
-
-
 
 
 # =========================
@@ -105,26 +100,15 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:0 group-title="Deportes",TNT Premium
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:0 group-title="Deportes Internacional",Fox Sports 1 (MPEG-TS)
+#EXTINF:0 tvg-id="FoxSports1" tvg-logo="https://githubusercontent.com" group-title="Deportes Premium",Fox Sports 1 (Principal)
 http://190.2.143
 
-#EXTINF:0 group-title="Deportes Internacional",Fox Sports 2 (MPEG-TS)
+#EXTINF:0 tvg-id="FoxSports2" tvg-logo="https://githubusercontent.com" group-title="Deportes Premium",Fox Sports 2 (Eventos)
 http://190.2.143
 
-#EXTINF:0 group-title="Deportes Internacional",TyC Sports (Argentina)
-http://181.78.79
+#EXTINF:0 tvg-id="FoxSportsPremium" tvg-logo="https://githubusercontent.com" group-title="Deportes Premium",Fox Sports Premium (Eventos Exclusivos)
+https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 
-#EXTINF:0 group-title="Deportes Internacional",beIN Sports XTRA (FAST)
-https://amagi.tv
-
-#EXTINF:0 group-title="Deportes Internacional",Eurosport 1 (Alternativo)
-http://212.224.98
-
-#EXTINF:0 group-title="Deportes Internacional",Real Madrid TV (Oficial)
-https://akamaihd.net
-
-#EXTINF:0 group-title="Deportes Internacional",Red Bull TV (Deportes Extremos)
-https://akamaized.net
 
 
 # =========================
