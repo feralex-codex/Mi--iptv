@@ -223,8 +223,14 @@ http://181.78.79.131:8000/play/a0pe
 # MUSICA
 # =========================
 
-#EXTINF:0 group-title="Música",Bandamax
-http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-name="Total Music" group-title="Música",Total Music
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-name="Zona Latina" group-title="Música",Zona Latina
+http://45.162.193.35/ZONALATINA/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
+http://15.204.246.24:8080/MTVHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Total Music" group-title="Música",Total Music
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -234,3 +240,12 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
 http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Aurora FM" group-title="Música",Aurora FM
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-name="Bandamax" group-title="Música",Bandamax
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+
+#EXTINF:-1 tvg-name="Exa TV" group-title="Música",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
