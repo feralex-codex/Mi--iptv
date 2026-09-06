@@ -188,6 +188,22 @@ https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-name="Zylo Cine Western" group-title="Películas",Zylo Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 
+#EXTINF:-1 tvg-name="AMC HD" group-title="Películas",AMC HD
+http://15.204.246.24:8080/AMCHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Cine Premiere" group-title="Películas",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+
+#EXTINF:-1 tvg-name="Cine Western" group-title="Películas",Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+
+#EXTINF:-1 tvg-name="DHE HD" group-title="Películas",DHE HD
+http://15.204.246.24:8080/DHEHD/index.m3u8
+
+#EXTINF:-1 tvg-name="FX HD" group-title="Películas",FX HD
+http://15.204.246.24:8080/FXHD/index.m3u8
+
+
 # =========================
 # ENTRETENIMIENTO
 # =========================
