@@ -100,10 +100,9 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:0 group-title="Deportes",TNT Premium
 http://181.78.79.131:8000/play/a0q9
 
-#EXTINF:-1,MX | ESPN DEPORTES
-http://play.pelusa.online:8080/Luismandujanox910/RjDZP87rmV8n/498347
 
-
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes" group-title="Deportes",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 
 # =========================
