@@ -194,9 +194,6 @@ https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="AMC HD" group-title="Películas",AMC HD
 http://15.204.246.24:8080/AMCHD/index.m3u8
 
-#EXTINF:-1 tvg-name="Cine Premiere" group-title="Películas",Cine Premiere
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-
 #EXTINF:-1 tvg-name="Cine Western" group-title="Películas",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 
@@ -254,12 +251,6 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 #EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
-#EXTINF:-1 tvg-name="Total Music" group-title="Música",Total Music
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-name="Zona Latina" group-title="Música",Zona Latina
-http://45.162.193.35/ZONALATINA/index.m3u8
-
 #EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
@@ -280,5 +271,3 @@ http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-name="Ebenezer TV" group-title="Cultura religiosa",Ebenezer TV
 http://186.33.26.18:8000/play/a0s4/index.m3u8
 
-#EXTINF:-1 tvg-name="Ebenezer TV" group-title="Cultura religiosa",Ebenezer TV — alternativa
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
