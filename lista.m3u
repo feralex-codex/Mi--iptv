@@ -253,17 +253,11 @@ https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:0 group-title="Infantiles",Disney Junior
 http://181.78.79.131:8000/play/a0p7
 
-#EXTINF:0 group-title="Infantiles",DHE
-http://181.78.79.131:8000/play/a0qv
-
 #EXTINF:0 group-title="Infantiles",Nickelodeon
 http://181.78.79.131:8000/play/a0qm
 
 #EXTINF:0 group-title="Infantiles",Tooncast
 http://181.78.79.131:8000/play/a0pe
-
-#EXTINF:-1 tvg-name="Disney HD" group-title="Infantiles",Disney HD
-http://15.204.246.24:8080/DisneyHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Disney HD" group-title="Infantiles",Disney HD
 http://15.204.246.24:8080/DisneyHD/index.m3u8
@@ -284,26 +278,12 @@ http://45.162.193.35/ZONALATINA/index.m3u8
 #EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
-#EXTINF:-1 tvg-name="MTV HD" group-title="Música",MTV HD
-http://15.204.246.24:8080/MTVHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Aurora FM" group-title="Música",Aurora FM
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-name="Bandamax" group-title="Música",Bandamax
 http://181.78.8.199:8000/play/a0g9/index.m3u8
-
-#EXTINF:-1 tvg-name="Exa TV" group-title="Música",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
-
-#EXTINF:-1 tvg-name="Total Music" group-title="Música",Total Music
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1 tvg-name="Zona Latina" group-title="Música",Zona Latina
-http://45.162.193.35/ZONALATINA/index.m3u8
-
-#EXTINF:-1 tvg-name="Aurora FM" group-title="Música",Aurora FM
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-name="Exa TV" group-title="Música",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
