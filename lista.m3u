@@ -250,6 +250,8 @@ https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 tvg-name="South Park" group-title="Entretenimiento",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 
+#EXTINF:-1 tvg-name="Telemundo HD" group-title="Entretenimiento",Telemundo HD
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 # =========================
 # INFANTILES
