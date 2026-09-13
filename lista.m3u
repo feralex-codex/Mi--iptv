@@ -103,6 +103,11 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes" group-title="Deportes",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
+#EXTINF:-1 tvg-name="ESPN Deportes" group-title="Deportes",ESPN Deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
 
 # =========================
 # MEXICO
