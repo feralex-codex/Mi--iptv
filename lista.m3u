@@ -112,6 +112,28 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Deportes",DAZN LaLiga
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/243
 
+#EXTINF:-1 tvg-name="DAZN" group-title="Deportes",DAZN
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/243
+
+#EXTINF:-1 tvg-name="DAZN Repuesto" group-title="Deportes",DAZN Repuesto
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/244
+
+#EXTINF:-1 tvg-name="M+ Copa del Rey" group-title="Deportes",M+ Copa del Rey
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/130169
+
+#EXTINF:-1 tvg-name="TUDN Latino" group-title="Deportes",TUDN Latino
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5097
+
+#EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
+
+#EXTINF:-1 tvg-name="FOX Sports 2" group-title="Deportes",FOX Sports 2
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5236
+
+#EXTINF:-1 tvg-name="FOX Sports Premium" group-title="Deportes",FOX Sports Premium
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5234
+
+
 # =========================
 # MEXICO
 # =========================
