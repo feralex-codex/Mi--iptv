@@ -256,6 +256,9 @@ https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-name="Telemundo HD" group-title="Entretenimiento",Telemundo HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Telemundo Caribe" group-title="Entretenimiento",Telemundo Caribe
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5372
+
 # =========================
 # INFANTILES
 # =========================
