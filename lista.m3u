@@ -250,12 +250,6 @@ http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel HD" group-title="Películas",Star Channel HD
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO MUNDI"  group-title="CINEMA PREMIUM",HBO MUNDI
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/250.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Paramount"  group-title="CINEMA PREMIUM",Paramount
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/251.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FILMS ART"  group-title="CINEMA PREMIUM",FILMS ART
-http://198.245.53.172:8970/live/QFFB6QJ9D6CX/QPG9XA4T294F/252.ts
 
 # =========================
 # ENTRETENIMIENTO
