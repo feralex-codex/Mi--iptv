@@ -112,17 +112,11 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Deportes",DAZN LaLiga
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/243
 
-#EXTINF:-1 tvg-name="DAZN" group-title="Deportes",DAZN
-http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/243
-
 #EXTINF:-1 tvg-name="DAZN Repuesto" group-title="Deportes",DAZN Repuesto
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/244
 
 #EXTINF:-1 tvg-name="M+ Copa del Rey" group-title="Deportes",M+ Copa del Rey
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/130169
-
-#EXTINF:-1 tvg-name="TUDN Latino" group-title="Deportes",TUDN Latino
-http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5097
 
 #EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
@@ -246,9 +240,6 @@ http://15.204.246.24:8080/DHEHD/index.m3u8
 
 #EXTINF:-1 tvg-name="FX HD" group-title="Películas",FX HD
 http://15.204.246.24:8080/FXHD/index.m3u8
-
-#EXTINF:-1 tvg-name="Sony Movies" group-title="Películas",Sony Movies
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Movies HD" group-title="Películas",Sony Movies HD
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
