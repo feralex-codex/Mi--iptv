@@ -193,6 +193,10 @@ http://181.78.79.131:8000/play/a0qb
 #EXTINF:-1 tvg-name="HBO" group-title="Películas",HBO
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/4975
 
+
+#EXTINF:-1 tvg-id="57" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/hbo2-logo.png" group-title="Premium",HBO2 HD
+http://181.189.244.253:8000/play/a019/index.m3u8
+
 #EXTINF:0 group-title="Películas",HBO Extreme
 http://181.78.79.131:8000/play/a0qy
 
@@ -240,9 +244,6 @@ http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Channel HD" group-title="Películas",Star Channel HD
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/hbo2-logo.png" group-title="Premium",HBO2 HD
-http://181.189.244.253:8000/play/a019/index.m3u8
 
 
 # =========================
@@ -333,8 +334,6 @@ https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 #EXTINF:-1 tvg-name="MTV Flow Latino" group-title="Música",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 
-#EXTINF:-1 tvg-name="MTV en español" group-title="Música",MTV en español
-https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 
 # =========================
 # CULTURA RELIGIOSA
