@@ -121,6 +121,9 @@ http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/130169
 #EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
 
+#EXTINF:-1 tvg-name="TUDN MX" group-title="Deportes",TUDN México
+https://a2lja3m.fubo18.com/tudn_mx/mono.m3u8?token=f59c4ed994d40c8147754697e1cb664d3ba6fe8c-71-1789755133-1789737133
+
 #EXTINF:-1 tvg-name="FOX Sports 2" group-title="Deportes",FOX Sports 2
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5236
 
