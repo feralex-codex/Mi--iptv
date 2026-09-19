@@ -19,6 +19,9 @@ https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn@SD" group-title="Honduras",Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Vica TV" group-title="Honduras",Vica TV (VTV)
+https://d1ltwd340qrchf.cloudfront.net/7_4/index.m3u8
+
 #EXTINF:-1 tvg-id="AztecaHonduras.hn@SD" group-title="Honduras",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
