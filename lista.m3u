@@ -76,6 +76,9 @@ https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DeportesTVC.hn@SD" group-title="Deportes",Deportes TVC
 https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Telemundo West" tvg-logo="https://i.imgur.com/6XvM0cK.png" group-title="Deportes",Telemundo West
+http://168.228.44.241:9997/play/a07g/index.m3u8
+
 #EXTINF:0 group-title="Deportes",ESPN 1
 http://181.78.79.131:8000/play/a0s7
 
@@ -125,9 +128,6 @@ http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5234
 # =========================
 # MEXICO
 # =========================
-
-#EXTINF:-1 tvg-id="Azteca7.mx" group-title="México",Azteca 7
-https://dnxdy7xlok3gl.cloudfront.net/5031bd7f-769e-4021-9967-019314f4a1f7/manifest.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="México",Las Estrellas
 http://181.78.79.131:8000/play/a0qu
