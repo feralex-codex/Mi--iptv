@@ -100,17 +100,20 @@ http://181.78.79.131:8000/play/a0s3
 #EXTINF:0 group-title="Deportes",ESPN 7
 http://181.78.79.131:8000/play/a0s8
 
-#EXTINF:0 group-title="Deportes",TNT Premium
-http://181.78.79.131:8000/play/a0q9
-
 #EXTINF:-1 tvg-name="ESPN Deportes" group-title="Deportes",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
+#EXTINF:-1 tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/DAZN_logo.svg/512px-DAZN_logo.svg.png" group-title="Deportes",DAZN LaLiga
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/243
+
 #EXTINF:-1 tvg-name="DAZN" group-title="Deportes",DAZN Repuesto
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/244
+
+#EXTINF:0 group-title="Deportes",TNT Premium
+http://181.78.79.131:8000/play/a0q9
 
 #EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
