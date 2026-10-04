@@ -127,6 +127,10 @@ http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5236
 #EXTINF:-1 tvg-name="FOX Sports Premium" group-title="Deportes",FOX Sports Premium
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5234
 
+#EXTINF:-1 tvg-name="beIN Sports XTRA en Español" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",beIN Sports XTRA en Español
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+
 
 # =========================
 # MEXICO
