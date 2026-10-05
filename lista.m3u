@@ -166,8 +166,8 @@ http://181.78.79.131:8000/play/a0p3
 # DOCUMENTALES
 # =========================
 
-#EXTINF:-1 tvg-id="NationalGeographic.mx" group-title="Documentales",National Geographic
-http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic" group-title="Documentales",National Geographic
+http://67.220.71.35:8880/PremiumTV4/JNV37rffgJdx/318620
 
 #EXTINF:0 group-title="Documentales",Animal Planet
 http://181.78.79.131:8000/play/a0po
