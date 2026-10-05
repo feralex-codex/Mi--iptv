@@ -203,7 +203,6 @@ http://181.78.79.131:8000/play/a0qb
 #EXTINF:-1 tvg-name="HBO" group-title="Películas",HBO
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/4975
 
-
 #EXTINF:-1 tvg-id="57" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/hbo2-logo.png" group-title="Premium",HBO2 HD
 http://181.189.244.253:8000/play/a019/index.m3u8
 
@@ -212,6 +211,9 @@ http://181.78.79.131:8000/play/a0qy
 
 #EXTINF:-1 tvg-name="HBO Plus" group-title="Películas",HBO Plus
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/4976
+
+#EXTINF:-1 tvg-name="HBO Pop" group-title="HBO",HBO Pop
+http://67.220.71.35:8880/PremiumTV4/JNV37rffgJdx/414472
 
 #EXTINF:-1 tvg-name="TNT" group-title="Películas",TNT
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5041
