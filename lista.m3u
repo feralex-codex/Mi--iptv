@@ -118,6 +118,9 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
 
+#EXTINF:-1 tvg-name="TUDN MX" group-title="Deportes",TUDN MX
+http://67.220.71.35:8880/PremiumTV4/JNV37rffgJdx/167770
+
 #EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes" group-title="Deportes",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
