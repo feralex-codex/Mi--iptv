@@ -136,7 +136,8 @@ http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5234
 #EXTINF:-1 tvg-name="beIN Sports XTRA en Español" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",beIN Sports XTRA en Español
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-
+#EXTINF:-1 tvg-name="DSport" group-title="Deportes",DSport
+https://a49live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/my5zrwcz67/out/v1/f5e6298f64c34c62a4f69e6667cc23af/cenc.mpd
 
 # =========================
 # MEXICO
