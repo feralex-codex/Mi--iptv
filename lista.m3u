@@ -103,6 +103,9 @@ http://181.78.79.131:8000/play/a0s8
 #EXTINF:-1 tvg-name="ESPN Deportes" group-title="Deportes",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
+#EXTINF:-1 tvg-name="ESPN Deportes USA" group-title="Deportes",ESPN Deportes USA
+https://justkidding.junksonus.party/main/secure/347c77d9e677c4ed21f4626aa2b82d46218ed25fcd78c4dce13253136074d6a4/1791355696/espndeportes-usa.m3u8
+
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
