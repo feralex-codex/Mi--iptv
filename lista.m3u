@@ -139,6 +139,9 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="DSport" group-title="Deportes",DSport
 https://a49live-pv-ta-amazon.akamaized.net/pdx-nitro/live/clients/dash/enc/my5zrwcz67/out/v1/f5e6298f64c34c62a4f69e6667cc23af/cenc.mpd
 
+#EXTINF:-1 tvg-name="Sky La Liga" group-title="Deportes",Sky La Liga
+https://deportes.ksdjugfssddeports.com/playlist/37/index.m3u8?token=b938543691136056faaf5b93b7cf43f365d93c94-d63c28b9210d7391df6f18dc0ac10dad-1791400593-1791378993
+
 # =========================
 # MEXICO
 # =========================
