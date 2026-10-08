@@ -101,6 +101,12 @@ https://stream.mux.com/DyxPGQOWJuWUxJ7uY2lhrnI0102Z3lo3qUxlaW01zQ2Ozs.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 
+#EXTINF:-1 tvg-name="D Sport" group-title="Deportes",D Sport
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-name="D Sport 2" group-title="Deportes",D Sport 2
+http://187.102.208.209:8000/play/a0bq/index.m3u8
+
 #EXTINF:-1 tvg-name="beIN Sports XTRA en Español" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",beIN Sports XTRA en Español
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
