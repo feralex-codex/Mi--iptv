@@ -68,20 +68,62 @@ https://s.emisoras.tv:8081/telerayo/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 
 # =========================
-# DEPORTES
+# FUTBOL / DEPORTES
 # =========================
+
+#EXTINF:-1 tvg-name="Telemundo West" tvg-logo="https://i.imgur.com/6XvM0cK.png" group-title="Deportes",Telemundo West
+http://168.228.44.241:9997/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 1" group-title="Deportes",ESPN 1
+http://181.78.79.131:8000/play/a0s7
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+http://181.78.79.131:8000/play/a0qj
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://181.78.79.131:8000/play/a0s6
+
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Deportes",ESPN 4
+http://181.78.79.131:8000/play/a0s9
+
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Deportes",ESPN 5
+http://181.78.79.131:8000/play/a0s5
+
+#EXTINF:-1 tvg-name="ESPN 6" group-title="Deportes",ESPN 6
+http://181.78.79.131:8000/play/a0s3
+
+#EXTINF:-1 tvg-name="ESPN 7" group-title="Deportes",ESPN 7
+http://181.78.79.131:8000/play/a0s8
 
 #EXTINF:-1 tvg-name="ESPN Deportes" group-title="Deportes",ESPN Deportes
 https://stream.mux.com/DyxPGQOWJuWUxJ7uY2lhrnI0102Z3lo3qUxlaW01zQ2Ozs.m3u8
 
-#EXTINF:-1 tvg-name="beIN Sports XTRA en Español" group-title="Deportes",beIN Sports XTRA en Español
+#EXTINF:-1 tvg-name="ESPN" group-title="Deportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports XTRA en Español" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",beIN Sports XTRA en Español
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-name="Fox Deportes" group-title="Deportes",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports 2" group-title="Deportes",FOX Sports 2
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5236
 
+#EXTINF:-1 tvg-name="FOX Sports Premium" group-title="Deportes",FOX Sports Premium
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/5234
+
 #EXTINF:-1 tvg-name="TUDN USA" group-title="Deportes",TUDN USA
 http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/156728
+
+#EXTINF:-1 tvg-name="TUDN MX" group-title="Deportes",TUDN MX
+http://67.220.71.35:8880/PremiumTV4/JNV37rffgJdx/167770
+
+#EXTINF:-1 tvg-name="TNT Premium" group-title="Deportes",TNT Premium
+http://181.78.79.131:8000/play/a0q9
+
+#EXTINF:-1 tvg-name="DAZN" group-title="Deportes",DAZN Repuesto
+http://31.43.191.125:8080/VIP01905172569352096/118e9cbbff88/244
 
 # =========================
 # MEXICO
