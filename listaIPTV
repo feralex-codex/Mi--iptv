@@ -193,22 +193,22 @@ http://181.78.79.131:8000/play/a0pp
 #EXTINF:-1 tvg-name="De Película" group-title="Películas",De Película
 http://181.78.79.131:8000/play/a0qb
 
-#EXTINF:-1 tvg-id="HBOHD.us" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO HD
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" group-title="HBO",HBO HD
 http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/46144.ts
 
 #EXTINF:-1 tvg-name="HBO2 HD" group-title="Películas",HBO2 HD
 http://181.189.244.253:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HBO_Family_Logo.svg/512px-HBO_Family_Logo.svg.png" group-title="HBO",HBO Family
-http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/46152.ts
-
-#EXTINF:-1 tvg-id="HBOMundi.us" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Mundi
-http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/96206.ts
-
 #EXTINF:-1 tvg-name="HBO Extreme" group-title="Películas",HBO Extreme
 http://181.78.79.131:8000/play/a0qy
 
-#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DreamWorks_Animation_logo.svg/512px-DreamWorks_Animation_logo.svg.png" group-title="HBO",DreamWorks
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" group-title="HBO",HBO Family
+http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/46152.ts
+
+#EXTINF:-1 tvg-id="HBOMundi" tvg-name="HBO Mundi" group-title="HBO",HBO Mundi
+http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/96206.ts
+
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" group-title="INFANTIL",DreamWorks
 http://rey-premium.online/live/Romi2502baltra/D8yw8sBhdb/206517.ts
 
 #EXTINF:-1 tvg-name="Space" group-title="Películas",Space
